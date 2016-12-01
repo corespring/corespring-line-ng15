@@ -4,6 +4,6 @@
   "private": true,
   "main": "src/controller.js",
   "dependencies": {
-    "corespring-legacy-line": "PieLabs/corespring-legacy-line"
+    "corespring-legacy-line": "corespring/corespring-legacy-line"
   }
 }
